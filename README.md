@@ -1,5 +1,5 @@
 # moe-frame
-MoeFrame, a PHP framework designed for the site of www.acgdraw.com
+MoeFrame, a PHP framework
 
 
 We're sorry no any document available now...
